@@ -26,7 +26,7 @@ Do not mix up configuration constants with language constants.
       }
     }
 
-NOTE: Language constants for previous root files are called as :
+# NOTE: Language constants for previous root files are called as :
 
  
 
@@ -46,7 +46,7 @@ Once you made a change and want to see the effect, do not forget to truncate the
 
  
 
-NOTE: all instances for
+# NOTE: all instances for
 
     $XXX->bindInt(':language_id', $_SESSION['languages_id']);
 
