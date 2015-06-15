@@ -36,7 +36,7 @@ Consider you working on product info and you go edit the constant : TEXT_PRODUCT
 
 this will become now :
 
-$osC_Language->get('PRODUCT_INFO_TEXT_PRODUCT_NOT_FOUND');
+    $osC_Language->get('PRODUCT_INFO_TEXT_PRODUCT_NOT_FOUND');
 
 Because oscommerce 2.3.X to 2.4 contains various duplicated constants, the best way to solve it was using the filename before the actual constant.
 
@@ -48,8 +48,8 @@ Once you made a change and want to see the effect, do not forget to truncate the
 
 NOTE: all instances for
 
-$XXX->bindInt(':language_id', $_SESSION['languages_id']);
+    $XXX->bindInt(':language_id', $_SESSION['languages_id']);
 
 should be replaced by:
 
-$XXX->bindInt(':language_id', $osC_Language->getID());
+    $XXX->bindInt(':language_id', $osC_Language->getID());
