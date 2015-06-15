@@ -1706,6 +1706,9 @@ INSERT INTO configuration (configuration_title, configuration_key, configuration
 INSERT INTO configuration (configuration_title, configuration_key, configuration_value, configuration_description, configuration_group_id, sort_order, set_function, date_added) values ('Content Width', 'MODULE_CONTENT_FOOTER_EXTRA_ICONS_CONTENT_WIDTH', '6', 'What width container should the content be shown in? (12 = full width, 6 = half width).', '6', '1', 'tep_cfg_select_option(array(\'12\', \'11\', \'10\', \'9\', \'8\', \'7\', \'6\', \'5\', \'4\', \'3\', \'2\', \'1\'), ', now());
 INSERT INTO configuration (configuration_title, configuration_key, configuration_value, configuration_description, configuration_group_id, sort_order, date_added) values ('Sort Order', 'MODULE_CONTENT_FOOTER_EXTRA_ICONS_SORT_ORDER', '20', 'Sort order of display. Lowest is displayed first.', '6', '1', now());
 
+
+INSERT INTO osc_languages (languages_id, name, code, locale, charset, date_format_short, date_format_long, time_format, text_direction, currencies_id, numeric_separator_decimal, numeric_separator_thousands, parent_id, sort_order) VALUES (1, 'English', 'en_US', 'en_US.UTF-8,en_US,english', 'utf-8', '%m/%d/%Y', '%A %d %B, %Y', '%H:%M:%S', 'ltr', 1, '.', ',', 0, 1);
+
 INSERT INTO osc_languages_definitions (id, languages_id, content_group, definition_key, definition_value) VALUES(392, 1, 'general', 'CHECKOUT_SUCCESS_TABLE_HEADING_COMMENTS', 'Enter a comment for the order processed');
 INSERT INTO osc_languages_definitions (id, languages_id, content_group, definition_key, definition_value) VALUES(393, 1, 'general', 'CONDITIONS_NAVBAR_TITLE', 'Conditions of Use');
 INSERT INTO osc_languages_definitions (id, languages_id, content_group, definition_key, definition_value) VALUES(394, 1, 'general', 'CONDITIONS_HEADING_TITLE', 'Conditions of Use');
