@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<language>
+  <definitions>
+    <definition>
+      <key>box_search_heading</key>
+      <value>Zoeken</value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_search_text</key>
+      <value>(probeer onze &lt;a href="%s"&gt;uitgebreide&lt;/a&gt; zoek functie)</value>
+      <group>modules-boxes</group>
+    </definition>
+  </definitions>
+</language>

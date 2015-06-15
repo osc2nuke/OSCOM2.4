@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<language>
+  <definitions>
+    <definition>
+      <key>box_reviews_heading</key>
+      <value>Beordelingen</value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_reviews_write</key>
+      <value>Schrijf een beordeling over dit product!</value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_reviews_stars_rating</key>
+      <value>%s van 5 sterren!</value>
+      <group>modules-boxes</group>
+    </definition>
+  </definitions>
+</language>

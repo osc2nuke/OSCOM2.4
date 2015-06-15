@@ -1,0 +1,2139 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<language>
+  <data>
+    <title>Dutch</title>
+    <code>nl_NL</code>
+    <locale>nl_NL,nl_NL.ISO8859-15,dutch</locale>
+    <character_set>iso-8859-15</character_set>
+    <text_direction><![CDATA[ltr]]></text_direction>
+    <date_format_short><![CDATA[%m/%d/%Y]]></date_format_short>
+    <date_format_long><![CDATA[%A %d %B, %Y]]></date_format_long>
+    <time_format><![CDATA[%H:%M:%S]]></time_format>
+    <default_currency>EUR</default_currency>
+    <numerical_decimal_separator>,</numerical_decimal_separator>
+    <numerical_thousands_separator>.</numerical_thousands_separator>
+    <parent_language_code><![CDATA[]]></parent_language_code>
+  </data>
+  <definitions>
+    <definition>
+      <key>my_account</key>
+      <value><![CDATA[Mijn account]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>cart_contents</key>
+      <value>Inhoud winkelwagen</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>checkout</key>
+      <value><![CDATA[Afrekenen]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_top</key>
+      <value><![CDATA[Top]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_shop</key>
+      <value><![CDATA[Online winkel]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>sign_in</key>
+      <value><![CDATA[Inloggen]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>sign_out</key>
+      <value><![CDATA[Uitloggen]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>gender_male</key>
+      <value><![CDATA[Man]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>gender_female</key>
+      <value><![CDATA[Vrouw]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>pull_down_default</key>
+      <value><![CDATA[Uw keuze]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>js_error</key>
+      <value>Er hebben zich fouten voorgedaan bij het controleren van uw formuliergegevens.\n\nMaakt u aub. de volgende aanpassingen:\n\n</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>js_error_already_submitted</key>
+      <value><![CDATA[Dit formulier is reeds verstuurd. Drukt u aub. op Ok en wacht tot het proces is afgerond.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>form_required_information</key>
+      <value>* Verplichte informatie</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_current_page</key>
+      <value>Pagina %s van %d</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_products</key>
+      <value><![CDATA[Toont <b>%d</b> tot <b>%d</b> (van <b>%d</b> produkten)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_orders</key>
+      <value>Toont &lt;b&gt;%d&lt;/b&gt; tot &lt;b&gt;%d&lt;/b&gt; (van &lt;b&gt;%d&lt;/b&gt; bestellingen)</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_reviews</key>
+      <value>Toont &lt;b&gt;%d&lt;/b&gt; tot &lt;b&gt;%d&lt;/b&gt; (van &lt;b&gt;%d&lt;/b&gt; beoordelingen)</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_previous_page</key>
+      <value><![CDATA[[&lt;&lt;&nbsp;Vorige]]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_next_page</key>
+      <value>[Volgende&amp;nbsp;&amp;gt;&amp;gt;]</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_add_address</key>
+      <value><![CDATA[Adres toevoegen]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_back</key>
+      <value>Terug</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_buy_now</key>
+      <value>Koop nu</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_change_address</key>
+      <value>Adres wijzigen</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_checkout</key>
+      <value>Afrekenen</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_confirm_order</key>
+      <value>Bevestig bestelling</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_continue</key>
+      <value>Verder</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_delete</key>
+      <value>Verwijder</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_edit</key>
+      <value>Bewerken</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_view</key>
+      <value>Bekijken</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_sign_in</key>
+      <value>Inloggen</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_add_to_cart</key>
+      <value>Toevoegen aan winkelwagen</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_reviews</key>
+      <value>Beoordelingen</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_search</key>
+      <value>Zoeken</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_update_cart</key>
+      <value>Winkelwagen bijwerken</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_write_review</key>
+      <value>Beoordeling schrijven</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>icon_in_cart</key>
+      <value>Toevoegen aan winkelwagen</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>tax_rate_unknown</key>
+      <value>BTW percentage onbekend</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>footer</key>
+      <value>Copyright &amp;copy; %s &lt;a href="%s"&gt;%s&lt;/a&gt;&lt;br /&gt;Powered by &lt;a href="http://www.oscommerce.nl" target="_blank"&gt;osCommerce&lt;/a&gt;</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>index_heading</key>
+      <value>Welkom bij %s!</value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>index_text</key>
+      <value><![CDATA[This is a default setup of the osCommerce e-commerce shopping cart solution, products shown are for demonstrational purposes, <b>any products purchased will not be delivered nor will the customer be billed</b>. Any information seen on these products is to be treated as fictional.]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>listing_image_heading</key>
+      <value>Afbeelding</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_model_heading</key>
+      <value>Artikelmodel</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_products_heading</key>
+      <value>Producten</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_manufacturer_heading</key>
+      <value>Fabrikant</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_quantity_heading</key>
+      <value>Aantal</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_price_heading</key>
+      <value>Prijs</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_weight_heading</key>
+      <value>Gewicht</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_buy_now_heading</key>
+      <value>Koop nu</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>no_products_in_category</key>
+      <value>Er zijn geen producten in deze categorie</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>filter_show</key>
+      <value>Toon:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>filter_all_categories</key>
+      <value>Alle categorieën</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>filter_all_manufacturers</key>
+      <value>Alle fabrikanten</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>greeting_guest</key>
+      <value>Welkom &lt;span class="greetUser"&gt;Bezoeker !&lt;/span&gt;&lt;BR&gt;Wilt u &lt;a href="%s"&gt;&lt;u&gt;inloggen&lt;/u&gt;&lt;/a&gt;? Of wilt u zich als nieuwe klant &lt;a href="%s"&gt;&lt;u&gt;Aanmelden&lt;/u&gt;&lt;/a&gt; ?&lt;BR&gt;Kijkt u rustig rond, u hoeft alleen in te loggen of u als nieuwe klant aan te melden wanneer u besluit een bestelling te plaatsen ! Uw winkelwagen wordt automatisch overgenomen nadat u inlogt of zich als nieuwe klant aanmeldt.</value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>greeting_customer</key>
+      <value>Welkom terug &lt;span class="greetUser"&gt;%s !&lt;/span&gt; Wilt u de &lt;a href="%s"&gt;&lt;u&gt;nieuwe artikelen&lt;/u&gt;&lt;/a&gt; zien die beschikbaar zijn?</value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>listing_sort_ascendingly</key>
+      <value>Sorteer artikelen %s oplopend</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_sort_descendingly</key>
+      <value>Sorteer artikelen %s aflopend</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_sign_in</key>
+      <value>Inloggen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_sign_out</key>
+      <value>Uitloggen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_my_account</key>
+      <value>Mijn account</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_edit_account</key>
+      <value>Wijzig klantenprofiel</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_edit_password</key>
+      <value>Wijzig wachtwoord</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_my_orders</key>
+      <value>Mijn bestellingen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_order_information</key>
+      <value>Bestellingen #%s</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_newsletters</key>
+      <value>Nieuwsbrieven</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_notifications</key>
+      <value>Notificaties</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book</key>
+      <value>Adresboek</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book_add_entry</key>
+      <value>Adres toevoegen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book_edit_entry</key>
+      <value>Adres wijzigen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book_delete_entry</key>
+      <value>Adres verwijderen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_create_account</key>
+      <value>Klantenprofiel aanmaken</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_password_forgotten</key>
+      <value>Wachtwoord vergeten</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>sign_in_heading</key>
+      <value>Welkom bezoeker! Wilt u zich aanmelden?</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>sign_out_heading</key>
+      <value>Afmelden van Mijn account</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>account_heading</key>
+      <value>Mijn account</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>account_edit_heading</key>
+      <value>Mijn gegevens</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>account_password_heading</key>
+      <value>Mijn wachtwoord</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>orders_heading</key>
+      <value>Mijn bestellingen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_information_heading</key>
+      <value>Bestelling #%s</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletters_heading</key>
+      <value>Abonnement op onze nieuwsbrief</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>notifications_heading</key>
+      <value>Mijn artikel notificatie</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_heading</key>
+      <value>Mijn adressen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_add_entry_heading</key>
+      <value>Adres toevoegen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_edit_entry_heading</key>
+      <value>Adres wijzigen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_delete_entry_heading</key>
+      <value>Adres verwijderen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_heading</key>
+      <value>Klantenprofiel aanmaken</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_success_heading</key>
+      <value>Uw klantenprofiel is succesvol aangemaakt!</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_new_customer_heading</key>
+      <value>Nieuwe klant</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_new_customer_text</key>
+      <value>Door uw klantgegevens op te geven kunt u sneller winkelen en kunt u profiteren van kortingen en speciale aanbiedingen die alleen voor geregistreerde klanten gelden.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_returning_customer_heading</key>
+      <value>Bestaande klant</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_returning_customer_text</key>
+      <value>Ik ben reeds klant en ik heb een klantenprofiel.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_returning_customer_password_forgotten</key>
+      <value>Wachtwoord vergeten? &lt;a href="%s"&gt;Klik hier.&lt;/a&gt;.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_login_no_match</key>
+      <value>Geen overeenkomstig 'e-mail adres' en/of 'wachtwoord'. Probeer het nog eens.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>date_added_to_shopping_cart</key>
+      <value>Toegevoegd op %s.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>sign_out_text</key>
+      <value>U bent uitgelogd.&lt;br&gt;&lt;br&gt;De inhoud van uw winkelwagen is bewaard voor de volgende keer.&lt;br /&gt;&lt;br /&gt;U kun nu veilig de winkel verlaten.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_account_title</key>
+      <value>Mijn account</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>information_title</key>
+      <value>Informatie</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>my_account_information</key>
+      <value>Bekijk of verander uw gegevens.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_account_address_book</key>
+      <value>Bekijk of verander adresgegevens van personen in mijn adresboek.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_account_password</key>
+      <value>Wachtwoord wijzigen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_orders_title</key>
+      <value>Mijn bestellingen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_orders_view</key>
+      <value>Bekijk de bestellingen die ik geplaatst heb.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_notifications_title</key>
+      <value>Mijn notificaties</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_notifications_newsletters</key>
+      <value>Abonneren of uitschrijven op nieuwsbrieven.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_notifications_products</key>
+      <value>Bekijk of verander mijn product notificatielijst.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_password_title</key>
+      <value>Mijn wachtwoord</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_number</key>
+      <value>Bestelnummer:</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_status</key>
+      <value>Status bestelling:</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_date</key>
+      <value>Besteldatum:</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_shipped_to</key>
+      <value>Verzonden naar:</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_billed_to</key>
+      <value>Factuuradres:</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_products</key>
+      <value>Producten:</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_cost</key>
+      <value>Bestelkosten:</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>no_orders_made_yet</key>
+      <value>U heeft nog niets besteld.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_number_heading</key>
+      <value>Bestelling #%s</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_date_heading</key>
+      <value>Besteldatum:</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_total_heading</key>
+      <value>Totaal:</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_history_heading</key>
+      <value>Bestelhistory</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>download_heading</key>
+      <value><![CDATA[Download links]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>download_link_expires</key>
+      <value>Link verloopt op: %s</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>download_counter_remaining</key>
+      <value>downloads over</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_subscriptions_heading</key>
+      <value>Mijn nieuwsbrief abonnementen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_general</key>
+      <value>Algemene nieuwsbrief</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_general_description</key>
+      <value>Inclusief winkelnieuws, nieuwe producten en aanbiedingen.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications</key>
+      <value>Mijn artikel notificaties</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_description</key>
+      <value>Blijf op de hoogte van de door u geselecteerde producten.&lt;br /&gt;&lt;br /&gt;Om op de hoogte te blijven van alle producten, kies &lt;b&gt;Global Product updates&lt;/b&gt;.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_global</key>
+      <value>Global Product updates</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_global_description</key>
+      <value>Ontvang updates over alle producten</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_products</key>
+      <value>Product updates</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_products_description</key>
+      <value>Om u af te melden van de updates, de-selecteer de checkbox en klik op Doorgaan.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_products_none</key>
+      <value>U heeft geen product updates actief.&lt;br /&gt;&lt;br /&gt;Om producten to te voegen aan uw product update lijst, click on the notification link available on the detailed product information page.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>primary_address_title</key>
+      <value>Hoofdadres</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>primary_address_description</key>
+      <value>Dit is het standaard verzend en factuur adres.&lt;br /&gt;&lt;br /&gt;Dit adres wordt ook gebruik om de BTW en verzendkosten te berekeken.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_title</key>
+      <value>Adressen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>primary_address_marker</key>
+      <value>(hoofd adres)</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_maximum_entries</key>
+      <value>&lt;font color="#ff0000"&gt;&lt;b&gt;NOTE:&lt;/b&gt;&lt;/font&gt; Maximaal %s adressen toegestaan.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_delete_address_title</key>
+      <value>Adres verwijderen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_delete_address_description</key>
+      <value>Wilt u dit adres uit uw adresboek verwijderen?</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_new_address_title</key>
+      <value>Adres toevoegen</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>selected_address_title</key>
+      <value>Geselecteerd adres</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>set_as_primary</key>
+      <value>Selecteer als hoofd adres.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_terms_heading</key>
+      <value><![CDATA[Privacy Statement]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_terms_description</key>
+      <value>U dient akkoord te gaan met onze privacy statement. U kun onze privacy statement &lt;a href="%s"&gt;hier&lt;/a&gt; lezen.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_terms_confirm</key>
+      <value>Ik ben akkoord met de privacy statement.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>password_forgotten_heading</key>
+      <value>Wachtwoord vergeten</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>password_forgotten</key>
+      <value>Indien u uw wachtwoord vergeten bent voer dan het e-mal adres in waarmee u zich gereigstreerd heeft. Wij versturen u dan een nieuw wachtwoord.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_create_account_subject</key>
+      <value>Welkom bij %s</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_create_account_body</key>
+      <value>Van harte welkom bij %s!
+
+You can now take part in the various services we have on offer for you. Some of these services include:
+
+&lt;li&gt;Permanent Cart - Any products added to your online cart remain there until you remove them, or check them out.
+&lt;li&gt;Address Book - We can now deliver your products to another address other than yours! This is perfect to send birthday gifts direct to the birthday-person themselves.
+&lt;li&gt;Order History - View your history of purchases that you have made with us.
+&lt;li&gt;Products Reviews - Share your opinions on products with our other customers.
+
+For help with any of our online services, please email the store-owner: %s.
+
+Note: This email address was given to us by one of our customers. If you did not signup to be a member, please send an email to the store owner.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_addressing_gender_male</key>
+      <value>Geachte Hr. %s,</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>email_addressing_gender_female</key>
+      <value>Geachte Mevr. Mej. %s,</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>email_addressing_gender_unknown</key>
+      <value>Beste %s,</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>email_password_reminder_subject</key>
+      <value>Wachtwoord herinnering voor %s</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_password_reminder_body</key>
+      <value>Een nieuw wachwtoord is aangevraagd door %s.
+
+Het nieuwe wachtwoord voor %s is:
+
+%s
+
+Heeft u vragen neem dan contact op met %s.
+
+Attentie: Indien u niet om dit bericht heeft gevraagd neem dan direct contact met ons op!</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_account_created</key>
+      <value>Gefeliciteerd! Uw klantenprofiel is succesvol aangemaakt! U kunt nu gebruik maken van alle faciliteiten die onze winkel u biedt. Indien u vragen heeft neem dan contact met &lt;a href="%s"&gt;ons&lt;/a&gt; op.&lt;br /&gt;&lt;br /&gt;En bevestiging van uw aanmelding is naar u verstuurt. Mocht u deze niet binnen een uur ontvangen dan verzoeken wij u contact met ons op te nemen.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_account_updated</key>
+      <value>Uw klantenprofiel is gewijzigd!</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_password_updated</key>
+      <value>Uw wachtwoord is gewijzigd!</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_newsletter_updated</key>
+      <value>Uw nieuwsbrief abonnemend is gewijzgd!</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_notifications_updated</key>
+      <value>Uw product updates is gewijzigd!</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_address_book_entry_deleted</key>
+      <value>Het adres is uit uw adresboek verwijderd.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_address_book_entry_updated</key>
+      <value>Uw adresboek is gewijzigd!</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_password_forgotten_sent</key>
+      <value>Een nieuw wachtwoord is een het opgegeven e-mail adres verstuurt.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>warning_primary_address_deletion</key>
+      <value>Dit is het hoofd adres. Dit adres kan niet worden verwijderd.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_current_password_not_matching</key>
+      <value>Uw wachtwoord is niet juist. Probeerd u het nogmaals.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_address_book_entry_non_existing</key>
+      <value>Dit adres bestaat niet.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_address_book_full</key>
+      <value>Uw adresboek is vol. Om een nieuw adres toe te voegen dient u eerst een ander dres te verwijderen.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_password_forgotten_no_email_address_found</key>
+      <value>Fout: het opgegeven E-mail adres is niet gevonden. Probeert u het nogmaals.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>warning_install_directory_exists</key>
+      <value>Attentie! De installatie directorie bestaat nog op: %s. Voor de veiligheid moet u deze verwijderen.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_config_file_writeable</key>
+      <value>Attentie! Het volgende bestand is beschijfbaar: %s. Dit is een beveiligings gevaar - zorg er voor dat dit bestand de juiste rechten krijgt.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_session_directory_non_existent</key>
+      <value>Attentie! De sessies directorie bestaat niet: %s. De Sessies zullen niet werken als deze directorie niet wordt aangemaakt.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_session_directory_not_writeable</key>
+      <value>Attentie! De sessies directorie is niet beschrijfbaar: %s. De Sessies zullen niet werken voordat deze directorie de juiste rechten krijgt.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_session_auto_start</key>
+      <value>Attentie! session.auto_start is enabled - schakel deze uit in de php.ini en herstart de webserver.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_download_directory_non_existent</key>
+      <value>Attentie! De download directorie bestaat niet: %s. De downloads zullen niet werken als deze directorie niet wordt aangemaakt.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout</key>
+      <value>Afrekenen</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_shopping_cart</key>
+      <value>Winkelwagen</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_shipping</key>
+      <value>Verzendmethode</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_shipping_address</key>
+      <value>Verzendadres</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_payment</key>
+      <value>Betaalmethode</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_payment_address</key>
+      <value>Factuuradres</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_confirmation</key>
+      <value>Bevestigen</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_success</key>
+      <value>Succesvol!</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shopping_cart_heading</key>
+      <value>Winkelwagen</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_method_heading</key>
+      <value>Verzendmethode</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_address_heading</key>
+      <value>Verzendadres</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>payment_method_heading</key>
+      <value>betaalmethode</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>payment_address_heading</key>
+      <value><![CDATA[Payment Address]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>confirmation_heading</key>
+      <value>Bevestiging</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>success_heading</key>
+      <value>Uw bestelling is succesvol ontvangen!</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_address_title</key>
+      <value>Verzendadres</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_shipping_destination</key>
+      <value>Kies het gewenste verzendadres</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>selected_shipping_destination</key>
+      <value>Dit is het huidge adres waarnaar uw bestelling wordt verzonden.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>current_shipping_address_title</key>
+      <value>Verzendadres:</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>please_select</key>
+      <value>Maak uw keuze</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_method_title</key>
+      <value>Verzendmethode</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_shipping_method</key>
+      <value>Kies de gewenste verzendmethode</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>only_one_shipping_method_available</key>
+      <value>Dit is op dit moment de enige beschikbare verzendmethode.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>add_comment_to_order_title</key>
+      <value>Plaats een opmerking bij uw bestelling</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>address_book_entries_title</key>
+      <value>Adresboek</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>select_another_shipping_destination</key>
+      <value>Kies het juiste verzendadres indien u uw bestelling ergens anders wilt laten bezorgen.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>select_another_billing_destination</key>
+      <value>Kies het juiste factuurdadres indien u de factuur ergens anders wilt laten bezorgen.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_shipping_address_title</key>
+      <value>Nieuw verzendadres</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_shipping_address</key>
+      <value>Gebruik het volgende formulier om een nieuw verzendadres aan te maken.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_billing_address_title</key>
+      <value>Nieuw factuuradres</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_billing_address</key>
+      <value>Gebruik het volgende formulier om een nieuw factuuradres aan te maken.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>billing_address_title</key>
+      <value>Factuuradres</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>selected_billing_destination</key>
+      <value>Dit is het huidige adres waarnaar de factuur verstuurt wordt.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_billing_destination</key>
+      <value>Kies het juiste factuurdadres indien u de factuur ergens anders wilt laten bezorgen.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>current_billing_address_title</key>
+      <value>Factuuradres:</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_title</key>
+      <value>Doorgaan met afrekenen</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_to_shipping</key>
+      <value>om de juiste verzendmethode te selecteren.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_to_payment</key>
+      <value>om de juiste betaalmethode te selecteren.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_to_confirmation</key>
+      <value>om de bestelling te bevestigen.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shopping_cart_empty</key>
+      <value>Uw winkelwagen is leeg!</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>subtotal_title</key>
+      <value>Subtotaal:</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>total_title</key>
+      <value>Totaal:</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>products_out_of_stock_checkout_not_possible</key>
+      <value>Producten gemarkeerd met %s zijn niet vooradig in de gewenste hoeveelheid.&lt;br /&gt;Pas desnoods het gewenste aantal aan.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>products_out_of_stock_checkout_possible</key>
+      <value>Producten gemarkeerd met %s zijn niet vooradig in de gewenste hoeveelheid.&lt;br /&gt;U kunt deze gewoon bestellen. Producten niet op voorraad worden nageleverd.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_conditions_title</key>
+      <value>Algemene Voorwaarden</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_conditions_description</key>
+      <value>U dient akkoord te gaan met onze Algemene Voorwaarden. Onze Algemene Voorwaarden kunt u &lt;a href="%s"&gt;&lt;u&gt;hier&lt;/u&gt;&lt;/a&gt; lezen.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_conditions_acknowledge</key>
+      <value>Ik ga akkoord met de Algemene Voorwaarden.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>payment_method_title</key>
+      <value>Betaalmethode</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_payment_method</key>
+      <value>Kies de gewenste betaalmethode</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>only_one_payment_method_available</key>
+      <value>Dit is momenteel de enige beschikbare betaalmethode.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_delivery_address_title</key>
+      <value>Afleveradres</value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_shipping_method_title</key>
+      <value>Verzendmethode</value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_products_title</key>
+      <value>Producten</value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_tax_title</key>
+      <value>BTW.</value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_total_title</key>
+      <value>Totaal</value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_billing_address_title</key>
+      <value>Factuuradres</value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_payment_method_title</key>
+      <value>Betaalmethode</value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_payment_information_title</key>
+      <value>Betaalinformatie</value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_comments_title</key>
+      <value>Commentaar bij uw bestelling</value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_text_edit_title</key>
+      <value>(bewerken)</value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>email_order_subject</key>
+      <value>Bestelvoortgang</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_order_number</key>
+      <value>Bestelnummer: %s</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_invoice_url</key>
+      <value>Gedetailleerde factuur: %s</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_date_ordered</key>
+      <value>Besteldatum: %s</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_status</key>
+      <value>Status bestelling: %s</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_products</key>
+      <value>Producten</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_delivery_address</key>
+      <value>Afleveradres</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_billing_address</key>
+      <value>Factuuradres</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_payment_method</key>
+      <value>Betaalmethode</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_separator</key>
+      <value><![CDATA[------------------------------------------------------]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_processed_successfully</key>
+      <value>Uw bestelling is succesvol ontvangen. Hartelijk dank voor uw bestelling!</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>add_selection_to_product_notifications</key>
+      <value>Hou mij op de hoogte over de volgende producten:</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>view_order_history</key>
+      <value>U kunt uw bestelling volgen via &lt;a href="%s"&gt;Mijn account&lt;/a&gt; en dan te kiezen voor &lt;a href="%s"&gt;bestelhistorie&lt;/a&gt;.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>contact_store_owner</key>
+      <value>Voor vragen kunt u contact opnemen met de &lt;a href="%s"&gt;webshop&lt;/a&gt;.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>thanks_for_shopping_with_us</key>
+      <value>Hartelijk dank voor uw bezoek!</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>download_footer</key>
+      <value>U kunt uw bestelling ook op een later tijdstip downloaden bij %s</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_information</key>
+      <value>Informatie</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_conditions</key>
+      <value>Algemene Voorwaarden</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_contact</key>
+      <value><![CDATA[Contact]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_privacy</key>
+      <value>Privacy Statement</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_shipping</key>
+      <value>Verzenden</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_sitemap</key>
+      <value><![CDATA[Sitemap]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_cookie_usage</key>
+      <value>Cookie gebruik</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_ssl_check</key>
+      <value><![CDATA[Security Check]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_heading</key>
+      <value>Informatie en Hulp</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_conditions_heading</key>
+      <value>Algemene Voorwaarden</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_contact_heading</key>
+      <value><![CDATA[Contact]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_privacy_heading</key>
+      <value>Privacy Verklaring</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_shipping_heading</key>
+      <value>Verzenden en Retourneren</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_sitemap_heading</key>
+      <value><![CDATA[Sitemap]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_cookie_usage_heading</key>
+      <value>Cookie gebruik</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_ssl_check_heading</key>
+      <value><![CDATA[Security Check]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>conditions</key>
+      <value>Hier uw Algemene Voorwaarden.</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact</key>
+      <value>Hier uw contactinformatie.</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>privacy</key>
+      <value>Hier uw Privacy Statement.</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>shipping</key>
+      <value>Hier uw verzendinformatie.</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>cookie_usage</key>
+      <value><![CDATA[We have detected that your browser does not support cookies, or has set cookies to be disabled.<br /><br />To continue shopping online, we encourage you to enable cookies on your browser.<br /><br />For <b>Internet Explorer</b> browsers, please follow these instructions:<br /><ol><li>Click on the Tools menubar, and select Internet Options</li><li>Select the Security tab, and reset the security level to Medium</li></ol>We have taken this measurement of security for your benefit, and apologize upfront if any inconveniences are caused.<br /><br />Please contact the store owner if you have any questions relating to this requirement, or to continue purchasing products offline.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>ssl_check</key>
+      <value><![CDATA[We have detected that your browser has generated a different SSL Session ID used throughout our secure pages.<br /><br />For security measures you will need to logon to your account again to continue shopping online.<br /><br />Certain older browsers do not have the capability of generating a secure SSL Session ID automatically which we require. If you use such a browser, we recommend switching to another browser such as <a href="http://www.microsoft.com/ie/" target="_blank">Microsoft Internet Explorer</a>, <a href="http://www.mozilla.com/firefox/" target="_blank">Firefox</a>, or <a href="http://www.opera.com" target="_blank">Opera</a> to continue your online shopping experience.<br /><br />We have taken this measurement of security for your benefit, and apologize upfront if any inconveniences are caused.<br /><br />Please contact the store owner if you have any questions relating to this requirement, or to continue purchasing products offline.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_title</key>
+      <value>Contact Informatie</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_store_address_title</key>
+      <value>Winkeladres</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_name_title</key>
+      <value>Volledige naam:</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_email_address_title</key>
+      <value>E-mail adres:</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_enquiry_title</key>
+      <value>Informatieaanvraag:</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_email_sent_successfully</key>
+      <value>Uw aanvraag is verstuurt naar de eigenaar.</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_email_subject</key>
+      <value>Informatieaanvraag</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account</key>
+      <value>Mijn Account</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account_edit</key>
+      <value>Account Informatie</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_address_book</key>
+      <value>Adresboek</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account_history</key>
+      <value>Bestelhistory</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account_notifications</key>
+      <value>Nieuwsbrief abonnementen</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_shopping_cart</key>
+      <value>Winkelwagen</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_checkout_shipping</key>
+      <value>Afrekenen</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_advanced_search</key>
+      <value>Uitgebreid zoeken</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_products_new</key>
+      <value>Nieuwe producten</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_specials</key>
+      <value>Aanbiedingen</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_reviews</key>
+      <value>Beoordelingen</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>cookie_usage_box_heading</key>
+      <value>Cookie Privacy en Security</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>cookie_usage_box_contents</key>
+      <value><![CDATA[Cookies must be enabled to purchase online on this store to embrace privacy and security related issues regarding your visit to this site.<br /><br />By enabling cookie support on your browser, the communication between you and this site is strengthened to be certain it is you who are making transactions on your own behalf, and to prevent leakage of your privacy information.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>ssl_check_box_heading</key>
+      <value>Privacy en Security</value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>ssl_check_box_contents</key>
+      <value><![CDATA[We validate the SSL Session ID automatically generated by your browser on every secure page request made to this server.<br /><br />This validation assures that it is you who is navigating on this site with your account and not somebody else.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_new_products</key>
+      <value>Nieuwe producten</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_specials</key>
+      <value>Aanbiedingen</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_reviews</key>
+      <value>Beoordelingen</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_reviews_new</key>
+      <value>Nieuwe beoordeling</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_tell_a_friend</key>
+      <value>Vertel een vriend</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>product_not_found_heading</key>
+      <value>Product niet gevonden</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>no_new_products</key>
+      <value>Er zijn momenteel geen producten gevonden</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>new_products_heading</key>
+      <value>Nieuwe producten</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>specials_heading</key>
+      <value>Aanbiedingen</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>reviews_heading</key>
+      <value>Beoordelingen</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>product_not_found</key>
+      <value>Product niet gevonden!</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>number_of_product_reviews</key>
+      <value>Huidige beoordelingen:</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>go_to_external_products_webpage</key>
+      <value>Voor meer informate bezoek de &lt;a href="%s" target="_blank"&gt;productpagina&lt;/a&gt;.</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>date_availability</key>
+      <value>&lt;font color="#ff0000"&gt;Dit product is op %s in voorraad.&lt;/font&gt;</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>product_attributes</key>
+      <value>Beschikbare opties:</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>enlarge_image</key>
+      <value>Click voor vergroting</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>date_added</key>
+      <value>Datum toegevoegd:</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>manufacturer</key>
+      <value><![CDATA[Manufacturer:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>price</key>
+      <value>Prijs:</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>average_rating</key>
+      <value>Gemiddelde waardering:</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>rating_of_5_stars</key>
+      <value>%s van 5 steren!</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>no_reviews_available</key>
+      <value>Geen beoordelingen gevonden</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>new_review_title</key>
+      <value>Nieuwe beoordeling</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_review_rating</key>
+      <value>Waardering:</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_review_from</key>
+      <value>Van:</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_lowest_rating_title</key>
+      <value>Slecht</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_highest_rating_title</key>
+      <value>Goed</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>customer_details_title</key>
+      <value>Uw gegevens</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>friend_details_title</key>
+      <value>Gegevens vriend(in)</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>tell_a_friend_message</key>
+      <value>Uw bericht</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_customer_name</key>
+      <value>Uw naam:</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_customer_email_address</key>
+      <value>Uw e-mail adres:</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_friends_name</key>
+      <value>Naam vriend(in):</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_friends_email_address</key>
+      <value>E-mal adres vriend(in):</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_subject</key>
+      <value>Een bekende van u, %s,  stuurt u dit bericht van %s</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_intro</key>
+      <value>Hallo %s!
+
+Een bekende van u, %s, dacht dat het dit product, %s, wel interessant zou vinden. Dit is te koop bij %s.</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_link</key>
+      <value>Om dit product te bekijken klik op onderstaande link of kopieer en plak deze in uw browser:
+
+%s</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_signature</key>
+      <value>Met vriendelijke groeten,
+
+%s</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>success_review_new</key>
+      <value>Hartelijk dank voor uw beoordeling! Het is bekeken en gepubliceerd!</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>success_review_moderation</key>
+      <value>Hartelijk dank voor uw beoordeling! het is ontvangen en zal worden bekeken.</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>success_tell_a_friend_email_sent</key>
+      <value>Uw e-mail over %s is verstuurt naar %s.</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_friends_name_empty</key>
+      <value>Error: De naam van uw vriend(in) is verplicht.</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_invalid_friends_email_address</key>
+      <value>Error: Het e-mail adres van uw vriend(in) is niet juist.</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_customers_name_empty</key>
+      <value>Error: Uw naam is verplicht.</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_invalid_customers_email_address</key>
+      <value>Error: Uw e-mail adres is niet juist.</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_search</key>
+      <value>Zoeken</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_search_results</key>
+      <value>Resultaten</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_heading</key>
+      <value>Zoeken</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>advanced_search_heading</key>
+      <value>Uitgebreid zoeken</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_results_heading</key>
+      <value>Zoekresultaten</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_criteria_title</key>
+      <value>Zoekcreteria</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_categories</key>
+      <value>Categoriën:</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_recursive</key>
+      <value>Inclusief subcategoriën</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_manufacturers</key>
+      <value>Fabrikanten:</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_price_from</key>
+      <value>Prijs vanaf:</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_price_to</key>
+      <value>Prijs tot:</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_date_from</key>
+      <value>Datum vanaf:</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_date_to</key>
+      <value>Datum tot:</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_help_tips</key>
+      <value>Zoeken Help</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_help_heading</key>
+      <value>Zoeken Help</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_help</key>
+      <value>Trefwoorden mogen gescheiden worden door AND en/of OR statements om meer controle te krijgen over de zoekresultaten.&lt;br /&gt;&lt;br /&gt;Bijvoorbeeld, &lt;u&gt;Microsoft AND mouse&lt;/u&gt; zal een resultaat geven waar beide woorden in voorkomen. Maar, bijvoorbeeld &lt;u&gt;mouse OR keyboard&lt;/u&gt; zal een resultaat opleveren met beide woorden of een van de twee woorden.&lt;br /&gt;&lt;br /&gt;Om op een exacte regel of serie woorden te zoeken kunt u de woorden tussen dubbele aanhalingstekens (") plaatsen.&lt;br /&gt;&lt;br /&gt;Bijvoorbeeld, &lt;u&gt;"notebook computer"&lt;/u&gt; zal een resultaat genereren waar deze exacte zin in terug te vinden is.&lt;br /&gt;&lt;br /&gt;Haakjes kunnen ook gebruikt worden om de zoekresultaten te verfijnen.&lt;br /&gt;&lt;br /&gt;Bijvoorbeeld, &lt;u&gt;Microsoft and (keyboard or mouse or "visual basic")&lt;/u&gt;.</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>close_window</key>
+      <value>Sluiten</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>error_search_at_least_one_input</key>
+      <value>Ten minste een van de velden moet worden ingevuld.</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_invalid_from_date</key>
+      <value>Fout: Ongeldige Datum vanaf.</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_invalid_to_date</key>
+      <value>Fout: Ongeldige Datum tot.</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_to_date_less_than_from_date</key>
+      <value>Fout: Datum tot moet groter of gelijk zijn aan Datum vanaf.</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_price_from_not_numeric</key>
+      <value>Fout: Prijs vanaf is numeric.</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_price_to_not_numeric</key>
+      <value>Fout: Prijs tot is numeric.</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_price_to_less_than_price_from</key>
+      <value>Fout: Prijs tot moet groter of gelijk zijn aan Prijs vanaf.</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_invalid_keywords</key>
+      <value>Fout: Ongeldige zoekwoorden.</value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>js_review_text</key>
+      <value>* De beroordeling dient uit mininaal %s characters te bestaan.</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>js_review_rating</key>
+      <value>* U dient tevens uw product te waarderen.</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>js_no_payment_module_selected</key>
+      <value>* U dient een betaalmethode te selecteren.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_no_payment_module_selected</key>
+      <value>U dient een betaalmethode te selecteren.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_conditions_not_accepted</key>
+      <value>U dient akkoord te gaan met onze Algemene Voorwaarden.</value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_privacy_statement_not_accepted</key>
+      <value>U dient akkoord te gaan met onze Privacy Statement.</value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>field_customer_gender</key>
+      <value>Geslacht:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_gender_error</key>
+      <value>Selecteer: man of vrouw.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_first_name</key>
+      <value>Voornaam:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_first_name_error</key>
+      <value>Uw voornaam dient uit minimaal %s characters te bestaan.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_last_name</key>
+      <value>Achternaam:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_last_name_error</key>
+      <value>Uw achternaam dient uit minimaal %s characters te bestaan.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_date_of_birth</key>
+      <value>Geboortedatum:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_date_of_birth_error</key>
+      <value>Uw geboortedatum is niet correct.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address</key>
+      <value>E-mail adres:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address_error</key>
+      <value>Uw E-mail adres dient uit minimaal %s characters te bestaan.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address_check_error</key>
+      <value>Uw E-mail adres opmaak lijkt niet te kloppen.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address_exists_error</key>
+      <value>Uw E-mail adres bestaat al - U kunt inloggen met uw adres, een nieuw wachtwoord aanvragen of een account aanmaken met een ander E-mail adres.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_company</key>
+      <value>Bedrijfsnaam:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_company_error</key>
+      <value>Uw bedrijfsnaam dient uit minimaal %s characters te bestaan.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_street_address</key>
+      <value>Adres:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_street_address_error</key>
+      <value>Uw adres dient uit minimaal %s characters te bestaan.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_suburb</key>
+      <value>Woonwijk:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_suburb_error</key>
+      <value>Uw woonwijk dient uit minimaal %s characters te bestaan.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_post_code</key>
+      <value>Postcode:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_post_code_error</key>
+      <value>Uw postcode dient uit minimaal %s characters te bestaan.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_city</key>
+      <value>Plaats:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_city_error</key>
+      <value>Uw plaatsnaam dient uit minimaal %s characters te bestaan.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_state</key>
+      <value>Provincie:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_state_error</key>
+      <value>Uw provincienaam dient uit minimaal %s characters te bestaan.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_state_select_pull_down_error</key>
+      <value>Selecteer de juiste provincie uit de lijst.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_country</key>
+      <value>Land:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_country_error</key>
+      <value>Selecteer het juiste land uit de lijst.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_telephone_number</key>
+      <value>Telefoonnummer:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_telephone_number_error</key>
+      <value>Uw telefoonnummer dient uit minimaal %s characters te bestaan.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_fax_number</key>
+      <value>Faxnummer:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_fax_number_error</key>
+      <value>Uw faxnummer dient uit minimaal %s characters te bestaan.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_newsletter</key>
+      <value>Nieuwsbrief:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password</key>
+      <value>Wachtwoord:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_error</key>
+      <value>Uw wachtwoord dient uit minimaal %s characters te bestaan.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_mismatch_with_confirmation</key>
+      <value>Uw wachtwoord komt niet overeen met uw wachtwoord bevestiging.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_confirmation</key>
+      <value>Wachtwoord bevestiging:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_current</key>
+      <value>Huidig wachtwoord:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_current_error</key>
+      <value>Uw wachtwoord dient uit minimaal %s characters te bestaan.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_new</key>
+      <value>Nieuw wachtwoord:</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_new_error</key>
+      <value>Uw nieuwe wachtwoord dient uit minimaal %s characters te bestaan.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_new_mismatch_with_confirmation_error</key>
+      <value>Uw wachtwoord komt niet overeen met uw wachtwoord bevestiging.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>reviewed_by</key>
+      <value>door %s</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_rating</key>
+      <value>Waardering: %s [%s]</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_date_added</key>
+      <value>Datum toegevoegd: %s</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>credit_card_number_error</key>
+      <value>Uw creditcardnummer is onjuist.&lt;br /&gt;Controlleer en probeer opnieuw.</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>maximum_file_upload_size</key>
+      <value><![CDATA[(Max: %s)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>price_from</key>
+      <value>vanaf</value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>products_model</key>
+      <value>Type:</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>availability</key>
+      <value>Beschikbaarheid:</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>date_available</key>
+      <value>Beschikbaar vanaf:</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>plus</key>
+      <value>incl.</value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>shipping</key>
+      <value>Verzendkosten</value>
+      <group>products</group>
+    </definition>
+  </definitions>
+</language>

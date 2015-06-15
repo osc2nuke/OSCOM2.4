@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<language>
+  <definitions>
+    <definition>
+      <key>box_ordering_steps_heading</key>
+      <value>Bestellen</value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_ordering_steps_delivery</key>
+      <value>Verzending</value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_ordering_steps_payment</key>
+      <value>Betaling</value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_ordering_steps_confirmation</key>
+      <value>Bevestiging</value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_ordering_steps_complete</key>
+      <value>Afgerond!</value>
+      <group>modules-boxes</group>
+    </definition>
+  </definitions>
+</language>

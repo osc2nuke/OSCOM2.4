@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<language>
+  <definitions>
+    <definition>
+      <key>box_shopping_cart_heading</key>
+      <value>Winkelwagen</value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_shopping_cart_empty</key>
+      <value>0 producten</value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_shopping_cart_subtotal</key>
+      <value>Subtotaal:</value>
+      <group>modules-boxes</group>
+    </definition>
+  </definitions>
+</language>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<language>
+  <definitions>
+    <definition>
+      <key>shipping_zones_title</key>
+      <value>Zones</value>
+      <group>modules-shipping</group>
+    </definition>
+    <definition>
+      <key>shipping_zones_description</key>
+      <value>Zones gebaseerd</value>
+      <group>modules-shipping</group>
+    </definition>
+    <definition>
+      <key>shipping_zones_method</key>
+      <value>Verzenden naar</value>
+      <group>modules-shipping</group>
+    </definition>
+    <definition>
+      <key>shipping_zones_invalid_zone</key>
+      <value>Verzenden naar dit land is niet mogelijk</value>
+      <group>modules-shipping</group>
+    </definition>
+    <definition>
+      <key>shipping_zones_undefined_rate</key>
+      <value>De verzendkosten kunnen niet worden berekend.</value>
+      <group>modules-shipping</group>
+    </definition>
+  </definitions>
+</language>

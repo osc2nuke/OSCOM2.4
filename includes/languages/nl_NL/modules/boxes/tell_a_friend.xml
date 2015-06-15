@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<language>
+  <definitions>
+    <definition>
+      <key>box_tell_a_friend_heading</key>
+      <value>Vertel een vriend(in)</value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_tell_a_friend_text</key>
+      <value>Vertel een bekende over dit product.</value>
+      <group>modules-boxes</group>
+    </definition>
+  </definitions>
+</language>
