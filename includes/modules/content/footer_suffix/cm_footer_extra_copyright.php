@@ -21,11 +21,12 @@
     var $enabled = false;
 
     function cm_footer_extra_copyright() {
+	global $osC_Language;
       $this->code = get_class($this);
       $this->group = basename(dirname(__FILE__));
 
-      $this->title = MODULE_CONTENT_FOOTER_EXTRA_COPYRIGHT_TITLE;
-      $this->description = MODULE_CONTENT_FOOTER_EXTRA_COPYRIGHT_DESCRIPTION;
+      $this->title = $osC_Language->get('MODULE_CONTENT_FOOTER_EXTRA_COPYRIGHT_TITLE');
+      $this->description = $osC_Language->get('MODULE_CONTENT_FOOTER_EXTRA_COPYRIGHT_DESCRIPTION');
 
       if ( defined('MODULE_CONTENT_FOOTER_EXTRA_COPYRIGHT_STATUS') ) {
         $this->sort_order = MODULE_CONTENT_FOOTER_EXTRA_COPYRIGHT_SORT_ORDER;
@@ -34,7 +35,7 @@
     }
 
     function execute() {
-      global $oscTemplate;
+      global $osC_Language, $oscTemplate;
       
       $content_width = (int)MODULE_CONTENT_FOOTER_EXTRA_COPYRIGHT_CONTENT_WIDTH;
 

@@ -21,6 +21,7 @@
     var $enabled = false;
 
     function cm_navbar() {
+	global $osC_Language;
       $this->code = get_class($this);
       $this->group = basename(dirname(__FILE__));
 
@@ -34,7 +35,7 @@
     }
 
     function execute() {
-      global $PHP_SELF, $lng, $currencies, $request_type, $oscTemplate;
+      global $PHP_SELF, $lng, $currencies, $request_type, $osC_Language, $oscTemplate;
 
       ob_start();
       include(DIR_WS_MODULES . 'content/' . $this->group . '/templates/navbar.php');
