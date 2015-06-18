@@ -228,6 +228,7 @@ class HTML
 
     public static function selectField($name, array $values, $default = null, $parameters = '', $required = false, $class = 'form-control')
     {
+	global $osC_Language;
         $group = false;
 
         $field = '<select name="' . static::output($name) . '"';
@@ -247,7 +248,7 @@ class HTML
         $field .= '>';
 
         if ($required == true) {
-            $field .= '<option value="">' . PULL_DOWN_DEFAULT . '</option>';
+            $field .= '<option value="">' . $osC_Language->get('PULL_DOWN_DEFAULT') . '</option>';
         }
 
         if (empty($default) && ((isset($_GET[$name]) && is_string($_GET[$name])) || (isset($_POST[$name]) && is_string($_POST[$name])))) {
