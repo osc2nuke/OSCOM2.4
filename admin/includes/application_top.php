@@ -146,8 +146,17 @@
 		$osC_Language->set($_GET['language']);
 	}
 	
-	$osC_Language->loadIniFile();
-	
+	//$osC_Language->loadIniFile();
+	// temporary admin fix 
+	$osC_Language->load('general');
+	$osC_Language->load('modules-action-recorder');
+	$osC_Language->load('modules-boxes');
+	$osC_Language->load('modules-content');
+	$osC_Language->load('modules-header-tags');
+	$osC_Language->load('modules-order-total');
+	$osC_Language->load('modules-payment');
+	$osC_Language->load('modules-shipping');
+	$osC_Language->load('modules-social-bookmarks');	
 	header('Content-Type: text/html; charset=' . $osC_Language->getCharacterSet());
 	
 	//setlocale(LC_TIME, explode(',', $osC_Language->getLocale()));	
